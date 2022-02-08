@@ -1,7 +1,7 @@
 [submodule "riscv-binutils"]
 	path = riscv-binutils
-	url = https://github.com/riscv-collab/riscv-binutils-gdb.git
-	branch = riscv-binutils-2.36.1
+	url = https://github.com/garthlei/riscv-binutils-gdb.git
+	branch = binutils_with_cfc
 [submodule "riscv-gcc"]
 	path = riscv-gcc
 	url = https://github.com/riscv-collab/riscv-gcc.git
