@@ -4,8 +4,8 @@
 	branch = binutils_with_cfc
 [submodule "riscv-gcc"]
 	path = riscv-gcc
-	url = https://github.com/riscv-collab/riscv-gcc.git
-	branch = riscv-gcc-10.2.0
+	url = https://github.com/Yukimai-sub/riscv-gcc-cfc.git
+	branch = riscv-gcc-10.2.0-with-cfc
 [submodule "riscv-glibc"]
 	path = riscv-glibc
 	url = git://sourceware.org/git/glibc.git
